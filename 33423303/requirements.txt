@@ -1,0 +1,4 @@
+# requirements.txt
+# List all the required libraries
+tkinter==8.6
+python==3.8
